@@ -1,4 +1,4 @@
 # wizardry-rpg
-An RPG that I made in Gamemaker!
+A cool platformer RPG that I made using the Gamemaker languages!
 
 ![](GIF2.gif)
